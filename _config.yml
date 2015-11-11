@@ -1,0 +1,23 @@
+name: Ronin
+favicon: null
+layout_spectrum: 0.3770010631997138
+typography_spectrum: 0.09956954210065305
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.873121888609603
+  lightness: 0.36948899598792195
+  saturation: 0.22514326544478536
+  rhythmicContrast: 0.033698170678690076
+purpose: []
