@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://wealthyronin.com/'
 title: The Wealthy Ronin
-datePublished: '2015-11-12T02:55:44.797Z'
-dateModified: '2015-11-12T02:55:38.046Z'
+datePublished: '2015-11-12T02:55:47.138Z'
+dateModified: '2015-11-12T02:55:44.797Z'
 sourcePath: _posts/2015-11-12-the-wealthy-ronin.md
 published: true
 inFeed: true
