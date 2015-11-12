@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Ronin]]></title>
         <description><![CDATA[Ronin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ronin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 21:48:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 Nov 2015 02:55:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ronin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why houses are not an investment, aka, the argument I had with my wife]]></title>
             <description><![CDATA[<article><h1>Why houses are not an investment, aka, the argument I had with my wife</h1><p>My wife and I have fundamentally different approaches to risk assessment and investing. She has a defined benefit pension and no other investments, while I'm actively building and managing my own portfolio. As part of my strategy to grow our assets, I suggested we start researching investment properties.</p><img src="http://i0.wp.com/wealthyronin.com/wp-content/uploads/2015/09/HouseInvest.jpg?resize=640%2C640"></article>]]></description>
             <link>http://wealthyronin.com/why-houses-are-not-an-investment-aka-the-argument-i-had-with-my-wife/</link>
             <guid isPermaLink="false">1738ee3d-6f69-49fb-9366-ea0d3bf57786</guid>
             <pubDate>Wed, 11 Nov 2015 21:48:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Wealthy Ronin]]></title>
+            <description><![CDATA[<article><h1>The Wealthy Ronin</h1><p>Tackling life and personal finance the hard way</p><img src="http://wealthyronin.com/wp-content/uploads/2015/07/cropped-original-samurai-sword.jpg"></article>]]></description>
+            <link>http://wealthyronin.com/</link>
+            <guid isPermaLink="false">a138d132-419c-477d-807f-871033bab382</guid>
+            <pubDate>Thu, 12 Nov 2015 02:55:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
